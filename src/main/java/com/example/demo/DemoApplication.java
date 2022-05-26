@@ -21,6 +21,5 @@ public class DemoApplication{
 		log.info("Hello EventListener!! ApplicationReadyEvent");
 		System.out.println("App Args: " + Arrays.asList(event.getArgs()));
 		System.out.println("App Args: " + Arrays.asList(event.getArgs()));
-		System.out.println("App Args: " + Arrays.asList(event.getArgs()));
 	}
 }
